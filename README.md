@@ -1,22 +1,27 @@
-<h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
-  
-### About me 👨🏻‍💻
-- 👦🏻 I'm a computer science student from the philippines
+### Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+
+I have been coding for the past few months to hone my skills to perfection. I'm a full-stack web developer with a strong interest in programming and a desire to make something for the web. Working on different projects and pushing the limits of what is possible with technology are two of my favorite things to do. Please don't hesitate to contact me if you need assistance with anything.
+
+<h2> About me 👨🏻‍💻 </h2>
+
+- 🎓 I'm a computer science student and a web developer
 - 🔭 I’m currently working on my school and personal projects
 - 🌱 I’m currently learning full stack web development
-- 💭 I will try and do my best to finish my thesis this year and graduate 💪🏻
+- 💭 I will try and do my best to finish my thesis this year and graduate
+- 🏠 Philippines
 
 <a href="https://www.linkedin.com/in/kent-ezra-betita-64355a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-### Tech Stack 💻
+<h2> Tech Stack 💻 </h2>
+
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,mysql,postgres,redis)](https://skillicons.dev)
 
+<h2> Stats 📊 </h2>
 
-### Stats 📊
 ![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita)
 
 <a href="https://github.com/kentezrabetita">
