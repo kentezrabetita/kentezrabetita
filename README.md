@@ -17,10 +17,11 @@
 
 
 ### Stats 📊
+![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita)
 
 <a href="https://github.com/yasinatesim">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=kentezrabetita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentezrabetita&theme=dark"/>
 </a>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita) 
+
