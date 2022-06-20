@@ -15,8 +15,6 @@
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,mysql,postgres,redis)](https://skillicons.dev)
 
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
 
 ### Stats 📊
 
