@@ -1,10 +1,10 @@
 <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
   
-<p>My name is Kent. I'm from the Philippines and I'm <b>Computer Science</b> student. 👨‍🎓</p>
-   
 ### About me 👨🏻‍💻
+- 👦🏻 I'm a computer science student from the philippines
 - 🔭 I’m currently working on my school and personal projects
 - 🌱 I’m currently learning full stack web development
+- 💭 I will try and do my best to finish my thesis this year and graduate 💪🏻
 
 <a href="https://www.linkedin.com/in/kent-ezra-betita-64355a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
