@@ -4,11 +4,12 @@ I'm a full-stack web developer with a strong interest in programming and a desir
 
 <h2> About me 👨🏻‍💻 </h2>
 
-- 🎓 I'm a computer science student and a web developer
-- 🔭 I’m currently working on my school and personal projects
-- 🌱 I’m currently learning full stack web development
-- 💭 I will try and do my best to finish my thesis this year and graduate
-- 🏠 Philippines
+- 🎓 computer science student and a web developer
+- 🌱 learning full stack web development
+- 🔭 working on my school and personal projects
+- 💭 trying and doing my best to graduate this year
+- 🏠 from Philippines
+- 🔎 currently looking for opportunities
 
 <a href="https://www.linkedin.com/in/kent-ezra-betita-64355a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
