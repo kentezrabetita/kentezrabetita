@@ -4,7 +4,7 @@ I'm a full-stack web developer with a strong interest in programming and a desir
 
 <h2> About me 👨🏻‍💻 </h2>
 
-- 🎓 computer science student and a web developer
+- 🎓 computer science student
 - 🌱 learning full stack web development
 - 🔭 working on my school and personal projects
 - 💭 trying and doing my best to graduate this year
