@@ -1,14 +1,12 @@
 <h2>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 
-I'm a full-stack web developer with a strong interest in programming and a desire to make something for the web. Working on different projects and pushing the limits of what is possible with technology are two of my favorite things to do. Please don't hesitate to contact me if you need assistance with anything.
+I'm a Software Engineer with a desire to make something cool, awesome, and helpful for the web. Working on different projects and pushing the limits of what is possible with technology are two of my favorite things to do. Please don't hesitate to contact me if you need assistance with anything.
 
 <h2> About me 👨🏻‍💻 </h2>
 
 - 🎓 computer science student
-- 🌱 learning full stack web development
 - 🔭 working on my school and personal projects
 - 💭 trying and doing my best to graduate this year
-- 🏠 from Philippines
 - 🔎 currently looking for opportunities
 
 <a href="https://www.linkedin.com/in/kent-ezra-betita-64355a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
