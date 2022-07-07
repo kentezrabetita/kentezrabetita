@@ -5,7 +5,8 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 <h2> About me 👨🏻‍💻 </h2>
 
 - 🎓 computer science student
-- 🔭 working on my school and personal projects
+- 🔭 working on my thesis and personal projects
+- 📑 learning about distributed systems
 - 💭 trying and doing my best to graduate this year
 - 🔎 currently looking for opportunities
 
