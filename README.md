@@ -5,9 +5,8 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 <h2> About me 👨🏻‍💻 </h2>
 
 - 🎓 computer science student
-- 🔭 working on my thesis and personal projects
-- 📑 learning about distributed systems
-- 💭 trying and doing my best to graduate this year
+- 🔭 currently working on my thesis and personal projects
+- 📑 also exploring about scalable and distributed systems
 
 <a href="https://www.linkedin.com/in/kent-ezra-betita-64355a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
