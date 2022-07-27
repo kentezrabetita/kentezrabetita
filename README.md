@@ -8,10 +8,23 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 - ⚒️ working on my personal projects (mostly full stack projects)
 - 🔍 exploring about scalable and distributed systems
 - 🔭 looking to collaborate with all things javascript
-- 📫 reach me here: <a href="https://kentezrabetita.vercel.app" target="_blank" rel="noopener noreferrer">kentezrabetita.vercel.app</a>
+- 📫 you can contact me right <a href="https://kentezrabetita.vercel.app" target="_blank" rel="noopener noreferrer">here</a>!
 - ⚡ i play dota, valorant, and some basketball
 
-<a href="https://www.linkedin.com/in/kent-ezra-betita-64355a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<h2> Socials </h2>
+
+<a href="https://www.linkedin.com/in/kentezrabetita" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/KentDaGrit/" target="_blank" rel="noopener noreferrer">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/kentezrathegreat/" target="_blank" rel="noopener noreferrer">
+  <img alt="Facebook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://dev.to/kentezrabetita" target="_blank" rel="noopener noreferrer">
+  <img alt="Facebook" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
 
 <h2> Tech Stack 💻 </h2>
 
