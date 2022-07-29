@@ -4,6 +4,7 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 
 <h2> About me 👨🏻‍💻 </h2>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita)
 - 🧑🏻‍🎓 computer science student
 - ⚒️ working on my personal projects (mostly full stack projects)
 - 🔍 exploring about scalable and distributed systems
@@ -35,8 +36,6 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,mysql,postgres,redis)](https://skillicons.dev)
 
 <h2> Stats 📊 </h2>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita)
 
 <a href="https://github.com/kentezrabetita">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=kentezrabetita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
