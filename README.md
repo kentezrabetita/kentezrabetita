@@ -6,8 +6,7 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita)
 - 🧑🏻‍🎓 computer science student
-- 👨🏻‍💻 working on my thesis
-- 🔍 currently exploring the distributed systems world
+- 👨🏻‍💻 currently working on my thesis
 - 📫 you can contact me right <a href="https://kentezrabetita.vercel.app" target="_blank" rel="noopener noreferrer">here</a>!
 - ⚡ i play dota, valorant, and some basketball
 
