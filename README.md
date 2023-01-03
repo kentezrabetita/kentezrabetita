@@ -4,7 +4,6 @@ I'm a Software Engineer with a desire to make something cool, awesome, and helpf
 
 <h2> About me 👨🏻‍💻 </h2>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=kentezrabetita)
 - 🧑🏻‍🎓 computer science student
 - 👨🏻‍💻 currently working on my thesis
 - 📫 you can contact me right <a href="https://kentezrabetita.vercel.app" target="_blank" rel="noopener noreferrer">here</a>!
