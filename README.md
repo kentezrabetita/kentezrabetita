@@ -1,6 +1,6 @@
 <h2>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 
-I'm a Software Engineer with a desire to make something cool, awesome, and helpful for the web. Working on different projects and pushing the limits of what is possible with technology are two of my favorite things to do. Please don't hesitate to contact me if you need assistance with anything.
+I'm a Software Engineer with a desire to make something cool, awesome, and helpful for everyone. Working on different projects and pushing the limits of what is possible with technology are two of my favorite things to do. Please don't hesitate to contact me if you need assistance with anything.
 
 <h2> About me 👨🏻‍💻 </h2>
 
