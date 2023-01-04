@@ -23,7 +23,7 @@ I'm a Software Developer with a desire to make something cool, awesome, and help
 ## Socials
 
 <a target="_blank" href="https://www.linkedin.com/in/kentezrabetita">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.facebook.com/KentDaGrit/">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
@@ -32,5 +32,5 @@ I'm a Software Developer with a desire to make something cool, awesome, and help
   <img alt="Facebook" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 <a target="_blank" href="https://dev.to/kentezrabetita">
-  <img alt="Facebook" src="https://img.shields.io/badge/dev.to-0A0A0A?style=fflat&logo=dev.to&logoColor=white" />
+  <img alt="Facebook" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=fflat&logo=dev.to&logoColor=white" />
 </a>
