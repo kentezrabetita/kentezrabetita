@@ -5,7 +5,7 @@ I'm a Software Developer with a desire to make something cool, awesome, and help
 ## About me
 
 - 🧑🏻‍🎓 Computer science student at [Caraga State University](https://www.carsu.edu.ph)
-- 🔭 I’m currently working on my thesis and side projects
+- 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning next.js, typescript, oauth, prisma, trpc
 - 🤝 I’m looking to collaborate on any web app projects
 - ☁ I’m looking for help with all the things that I'm currently learning
