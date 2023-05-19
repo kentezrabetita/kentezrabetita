@@ -4,12 +4,10 @@ I'm a Software Developer with a desire to make something cool, awesome, and help
 
 ## About me
 
-- 🧑🏻‍🎓 Student of life, learning new things everyday
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning next.js, typescript, oauth, prisma, trpc
-- 🤝 I’m looking to collaborate on any web app projects
-- ☁ I’m looking for help with all the things that I'm currently learning
-- ⚡ I play dota, valorant, and some basketball
+- 👨‍🎓 Student of life, learning new things everyday
+- 🤝 I’m looking to collaborate on javascript based web app projects
+- ☁ I’m looking to help and do volunteer stuff as well
+- ⚡ I play dota, valorant, and some basketball 
 
 ## Stack
 
