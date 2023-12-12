@@ -1,7 +1,3 @@
-## Yoo!
-
-I'm a Software Developer with a desire to make something cool, awesome, and helpful. I mainly build stuff for the web but working on different projects and pushing the limits of what is possible with technology are two of my favorite things to do. Please don't hesitate to contact me if you need assistance with anything.
-
 ## About me
 
 - 👨‍🎓 Student of life, learning new things everyday
